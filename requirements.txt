@@ -1,0 +1,21 @@
+# Core data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Text-based search
+scikit-learn==1.5.0
+
+# Image processing
+Pillow==10.3.0
+opencv-python==4.10.0.84
+
+# Deep learning models (pretrained)
+torch==2.2.2
+torchvision==0.17.2
+transformers==4.41.2
+
+# Similarity search
+scipy==1.13.1
+
+# Optional UI (for prototype/demo)
+streamlit==1.36.0
